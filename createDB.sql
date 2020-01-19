@@ -1,6 +1,6 @@
-CREATE DATABASE `users` CHARACTER SET utf8;
+CREATE DATABASE `usersdb` CHARACTER SET utf8;
 
-USE `users`;
+USE `usersdb`;
 
  CREATE TABLE `users` (
   `id` int(11) NOT NULL,
